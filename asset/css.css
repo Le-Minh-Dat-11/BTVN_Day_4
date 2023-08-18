@@ -1,0 +1,11 @@
+/* S */
+img {
+    width: 100px;
+    height: 150px
+}
+
+.card {
+    display: flex;
+    width: 200px;
+
+}
